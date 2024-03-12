@@ -16,3 +16,6 @@ The hint button ('*') will return a list of all available words that would match
 If the user loses, they will be prompted with a message saying the game is over.
 
 If the user wins, they will be congratulated, and receive the final score (calculated based on the number of tries needed and the overall complexity of the word).
+
+***********
+This project may be expanded upon, adding a GUI would be the first idea.
